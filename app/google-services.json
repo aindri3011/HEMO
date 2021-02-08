@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883534272302",
+    "firebase_url": "https://hemo-7208e.firebaseio.com",
+    "project_id": "hemo-7208e",
+    "storage_bucket": "hemo-7208e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883534272302:android:8c1dbd757c552769f1ccbf",
+        "android_client_info": {
+          "package_name": "com.aindri.hemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883534272302-1qi7mkqq02a4v0sk70mtiuuinpcus5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiDIgCqYGoZ8y_66rZopHtT7wSfCPYP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883534272302-1qi7mkqq02a4v0sk70mtiuuinpcus5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
